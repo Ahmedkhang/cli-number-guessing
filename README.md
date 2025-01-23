@@ -1,2 +1,2 @@
 # cli-number-guessing
-This is a number guessing game using typescript
+This is a number guessing game using typescript.
